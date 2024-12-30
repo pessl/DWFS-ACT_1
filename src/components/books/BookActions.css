@@ -1,0 +1,38 @@
+.book-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;    
+    margin-top: 10px;
+}
+  
+.book-actions__button {
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 8px 10px;
+    transition: background-color 0.3s ease;
+}
+  
+.book-actions__button--details {
+    background-color: #5d3fd3;
+    color: white;
+}
+  
+.book-actions__button--details:hover {
+    background-color: #4b30b3;
+}
+  
+.book-actions__button--cart {
+    background-color: #28a745;
+    color: white;
+}
+  
+.book-actions__button--cart:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+}
+  
+.book-actions__button--cart:hover:not(:disabled) {
+    background-color: #218838;
+}

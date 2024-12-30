@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "price": 15.99,
+      "image": "https://covers.openlibrary.org/b/id/12808734-L.jpg",
+      "description": "Una historia épica de varias generaciones de la familia Buendía en el pueblo ficticio de Macondo.",
+      "stock": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "price": 18.50,
+      "image": "https://covers.openlibrary.org/b/id/13990987-L.jpg",
+      "description": "Las aventuras y desventuras del caballero andante Don Quijote y su fiel escudero, Sancho Panza.",
+      "stock": 7,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "price": 12.75,
+      "image": "https://covers.openlibrary.org/b/id/13775960-L.jpg",
+      "description": "Una historia de amor, orgullo y malentendidos en la Inglaterra del siglo XIX.",
+      "stock": 5,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 10.99,
+      "image": "https://covers.openlibrary.org/b/id/13529309-L.jpg",
+      "description": "Un cuento filosófico sobre un joven príncipe y sus viajes por el universo.",
+      "stock": 15,
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 14.99,
+      "image": "https://covers.openlibrary.org/b/id/12054715-L.jpg",
+      "description": "Una visión distópica de un futuro totalitario donde el Gran Hermano lo controla todo.",
+      "stock": 8,
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "price": 16.99,
+      "image": "https://covers.openlibrary.org/b/id/12340847-L.jpg",
+      "description": "La lucha psicológica de un joven estudiante después de cometer un asesinato.",
+      "stock": 6,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "title": "Los miserables",
+      "author": "Victor Hugo",
+      "price": 19.99,
+      "image": "https://covers.openlibrary.org/b/id/5252976-L.jpg",
+      "description": "Una obra maestra que explora la redención y la justicia en la Francia del siglo XIX.",
+      "stock": 4,
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "title": "El gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 13.50,
+      "image": "https://covers.openlibrary.org/b/id/14249539-L.jpg",
+      "description": "La trágica historia de amor y ambición en la América de los años 20.",
+      "stock": 9,
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "title": "La odisea",
+      "author": "Homero",
+      "price": 17.99,
+      "image": "https://covers.openlibrary.org/b/id/13499955-L.jpg",
+      "description": "El legendario viaje de Odiseo para regresar a Ítaca después de la guerra de Troya.",
+      "stock": 10,
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "price": 14.25,
+      "image": "https://covers.openlibrary.org/b/id/8353076-L.jpg",
+      "description": "Un poderoso relato sobre la injusticia racial en el sur de los Estados Unidos.",
+      "stock": 8,
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "title": "El señor de los anillos",
+      "author": "J.R.R. Tolkien",
+      "price": 25.99,
+      "image": "https://covers.openlibrary.org/b/id/14120076-L.jpg",
+      "description": "Una épica aventura en la Tierra Media para destruir el Anillo Único.",
+      "stock": 12,
+      "rating": 5.0
+    },
+    {
+      "id": 12,
+      "title": "La divina comedia",
+      "author": "Dante Alighieri",
+      "price": 18.75,
+      "image": "https://covers.openlibrary.org/b/id/14083429-L.jpg",
+      "description": "Un viaje alegórico a través del Infierno, el Purgatorio y el Paraíso.",
+      "stock": 5,
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "title": "El viejo y el mar",
+      "author": "Ernest Hemingway",
+      "price": 11.99,
+      "image": "https://covers.openlibrary.org/b/id/14289984-L.jpg",
+      "description": "La lucha de un pescador contra un pez gigante en alta mar.",
+      "stock": 7,
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "title": "Cumbres borrascosas",
+      "author": "Emily Brontë",
+      "price": 14.50,
+      "image": "https://covers.openlibrary.org/b/id/14301203-L.jpg",
+      "description": "Una apasionada historia de amor y venganza en los páramos de Inglaterra.",
+      "stock": 6,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "price": 12.99,
+      "image": "https://covers.openlibrary.org/b/id/10756700-L.jpg",
+      "description": "La historia de un científico que crea una criatura con consecuencias terribles.",
+      "stock": 8,
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "title": "Ana Karenina",
+      "author": "León Tolstói",
+      "price": 19.50,
+      "image": "https://covers.openlibrary.org/b/id/13765006-L.jpg",
+      "description": "Un drama sobre el amor, la infidelidad y la moral en la Rusia del siglo XIX.",
+      "stock": 5,
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "price": 13.75,
+      "image": "https://covers.openlibrary.org/b/id/10114404-L.jpg",
+      "description": "La icónica historia del conde Drácula y sus aventuras en Londres.",
+      "stock": 9,
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "title": "Las mil y una noches",
+      "author": "Anónimo",
+      "price": 22.99,
+      "image": "https://covers.openlibrary.org/b/id/12786224-L.jpg",
+      "description": "Una colección de cuentos mágicos e inolvidables del Medio Oriente.",
+      "stock": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 19,
+      "title": "El perfume",
+      "author": "Patrick Süskind",
+      "price": 15.75,
+      "image": "https://covers.openlibrary.org/b/id/11383123-L.jpg",
+      "description": "La fascinante historia de un hombre con un extraordinario sentido del olfato.",
+      "stock": 6,
+      "rating": 4.8
+    },
+    {
+      "id": 20,
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "price": 17.99,
+      "image": "https://covers.openlibrary.org/b/id/10522126-L.jpg",
+      "description": "Un thriller literario ambientado en la Barcelona de la posguerra.",
+      "stock": 8,
+      "rating": 4.9
+    }
+  ]
+  
