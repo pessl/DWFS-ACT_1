@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "./../styles/Styles.css";
+import "./../styles/styles.css";
 
 const Cart = ({ isOpen, cartItems, onClose, onRemove, onIncrease, onDecrease }) => {
   const navigate = useNavigate();
